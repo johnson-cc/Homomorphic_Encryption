@@ -14,7 +14,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 import static org.junit.Assert.assertEquals;
-
 public class DGKTest implements constants {
     private static DGKPublicKey public_key;
     private static DGKPrivateKey private_key;
